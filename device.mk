@@ -87,3 +87,7 @@ PRODUCT_COPY_FILES += \
 
 # Inherit proprietary files
 $(call inherit-product-if-exists, vendor/xiaomi/whyred/whyred-vendor.mk)
+
+# Wallpapers
+PRODUCT_PACKAGES += \
+    WallpapersBReel2019
