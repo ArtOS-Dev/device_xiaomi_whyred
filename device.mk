@@ -90,4 +90,4 @@ $(call inherit-product-if-exists, vendor/xiaomi/whyred/whyred-vendor.mk)
 
 # Wallpapers
 PRODUCT_PACKAGES += \
-    WallpapersBReel2019
+    PixelLiveWallpaperPrebuilt
