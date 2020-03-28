@@ -1,6 +1,6 @@
 [
   {
-    "repository": "AOSiP-Devices/device_xiaomi_sdm660-common",
+    "repository": "Keertesh19/device_xiaomi_sdm660-common-aosip",
     "target_path": "device/xiaomi/sdm660-common",
     "branch": "ten"
   },
